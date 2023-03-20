@@ -664,7 +664,7 @@ Pantallas de 600 px
     
     .image-main {
         min-height: 400px;
-        background-image: url('./assets/images/image-web-3-mobile.jpg');
+        background-image: url('/assets/images/image-web-3-mobile.jpg');
         background-repeat: no-repeat;
         background-size: contain;
         /* grid-row: auto; */
